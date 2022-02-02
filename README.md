@@ -39,4 +39,8 @@
 ![image](https://user-images.githubusercontent.com/39818267/152112029-ae75e545-945f-425b-809a-c69828862ffd.png)
 ![image](https://user-images.githubusercontent.com/39818267/152112043-8773e954-66d7-4f28-8e2b-865a58301f67.png)
 
+4.创建流水线并发版
+    4.1 创建一个项目选择流水线
+    ![image](https://user-images.githubusercontent.com/39818267/152113759-a4db674d-f900-438b-9c31-48415ef7d3d9.png)
+    4.2 点击构建即可
 
