@@ -3,7 +3,7 @@
 ```
 # 准备工作部署一个gitlab并创建好group
 ```
-1.1 centos安装gitlab省略
+1.1 centos安装gitlab(省略)
 1.2 gitlab创建group并上传代码
 1.3 创建三个group,分别为devops和kkb-release和code
 1.4 devops 组内创建的项目分别为delivery kkb-front-flow-plugin kkb-k8s-mos-deploy-plugin(见图一)
