@@ -41,6 +41,12 @@
 
 4.创建流水线并发版
     4.1 创建一个项目选择流水线
+    4.2 参数化构建过程
+    ![image](https://user-images.githubusercontent.com/39818267/152114277-87dd779f-229a-42fb-a67c-3fb7ca8342f3.png)
+    ![image](https://user-images.githubusercontent.com/39818267/152114292-2b6b6194-ee6b-443f-bcea-a3f28ca1f949.png)
+    4.3 点击构建即可
     ![image](https://user-images.githubusercontent.com/39818267/152113759-a4db674d-f900-438b-9c31-48415ef7d3d9.png)
-    4.2 点击构建即可
+    4.4 发布,选择分支和部署的环境
+    ![image](https://user-images.githubusercontent.com/39818267/152114432-a0471fc7-dd1f-4351-ae7d-0011eae9c0ce.png)
+
 
