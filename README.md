@@ -3,6 +3,7 @@
 注意部署jenkins的机器需要安装docker，如果是私有harbor得话，需要提前docker login进去
 前端项目需要安装node环境 自行百度centos7安装node
 java项目需要安装mvn环境  自行百度centos7 mvn
+自行给jenkins加一个标签,系统配置,节点管理添加jenkins-slave-hc32 jenkins-slave-k8s 这两个标签因为pipeline里写了
 ```
 # 准备工作部署一个gitlab并创建好group
 ```
